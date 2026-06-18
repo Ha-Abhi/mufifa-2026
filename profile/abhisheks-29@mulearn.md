@@ -9,17 +9,17 @@ I am a Chemical Engineering student at Government Engineering College (GEC) Kozh
 
 ## ⚽ FIFA World Cup Corner
 
-*Your fan card. Tell us who you ride with, what you know about the beautiful game, and what you expect from this year's tournament.*
+
 
 #### My Nation & Why:
 
-- Which FIFA Nation are you representing in μFIFA, and why did you pick them?
-- Is it legacy, tactics, a player you love, or pure loyalty? Tell the story.
+- I’m representing Portugal because of Cristiano Ronaldo, the player who inspired my love for football. His dedication, discipline, and winning mentality have always motivated me both on and off the field. Supporting Portugal is a tribute to the country that produced one of football’s greatest legends and a team that always plays with passion and pride.
 
-#### Supporting Team in the Real World Cup 2026:
+#### Supporting Team in the Real World Cup 2026: 
 
-- Which team are you backing in the actual FIFA World Cup 2026?
-- Are they the same as your μFIFA Nation, or do you split loyalties?
+
+- I’m backing Portugal in the FIFA World Cup 2026 as well, so there’s no split loyalty. As a longtime Cristiano Ronaldo fan, Portugal has always been my team, and I’ll be cheering for them all the way.
+
 
 #### All-Time Favourite Player:
 
