@@ -1,4 +1,4 @@
-# Abhishek S( Chemical Engineering Student/ What You Do)
+# Abhishek S( Chemical Engineering Student, Photography & Visual Storytelling Enthusiast)
 ### Squad Domain: [Coder / Maker / Designer / Strategist] | FIFA Nation: [Country Name]
 
 ### About Me
