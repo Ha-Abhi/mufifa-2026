@@ -51,8 +51,6 @@ I am a Chemical Engineering student at Government Engineering College (GEC) Kozh
 
 ## 🏅 Portfolio Highlights
 
-> No portfolio yet? That's fine. μFIFA is where you build one. Fill in what you have, even if it's just an idea, a plan, or something you're currently learning.
-
 #### History of Open Source and Collaborative Contributions:
 
 - Share open-source projects you've contributed to: your own repos, contributions to popular projects, or collaborative proof-of-work on μLearn initiatives.
