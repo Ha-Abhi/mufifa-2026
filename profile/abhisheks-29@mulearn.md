@@ -23,18 +23,17 @@ I am a Chemical Engineering student at Government Engineering College (GEC) Kozh
 
 #### All-Time Favourite Player:
 
-- **Cristiano Ronaldo**
-- 
+- **Cristiano Ronaldo**,his dedication, resilience, and relentless pursuit of excellence inspire me the most. I believe a player with his commitment and impact on the game truly deserves to lift the World Cup.
+  
 
 #### Best Player Right Now:
 
-- Who do you think is the best player in the world at this moment?
-- Make your case.
+- **Kylian Mbappe**,is best known for his explosive pace, exceptional dribbling, clinical finishing, and ability to perform on the biggest stages.
+  
 
 #### Past World Cup Memories:
 
-- What's your most memorable FIFA World Cup moment? A match, a goal, a heartbreak, or an upset?
-- Where were you when it happened?
+- **Argentina 4-2 France** (penalty) 2022,my favorite World Cup memory is watching the 2022 Argentina vs France final at a public screening. After Mbappé’s incredible comeback, many France fans around me thought Argentina would lose. The dramatic turnaround and Argentina’s eventual victory made it an unforgettable experience.
 
 #### 2026 Predictions:
 
