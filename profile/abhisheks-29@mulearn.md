@@ -3,7 +3,7 @@
 
 ### About Me
 
-> Who are you, what do you build or create, and what brought you to μFIFA? Tell us about your field, your work at your institution or organisation, and what you're here to prove on the pitch. If you're just starting out, tell us what excites you and what you want to become. *(Minimum 200 characters)*
+I am a Chemical Engineering student at Government Engineering College (GEC) Kozhikode, passionate about applying science and engineering to solve real-world problems. My academic journey has strengthened my analytical thinking, problem-solving skills, and ability to work effectively in teams.Outside academics, I enjoy photography and photo editing, combining creativity with attention to detail to tell stories through visuals.μFIFA is an exciting opportunity for me to connect with people from diverse backgrounds, engage in group activities, and build meaningful collaborations. On the pitch, I bring enthusiasm, teamwork, and a willingness to learn while enjoying the spirit of healthy competition.
 
 ---
 
