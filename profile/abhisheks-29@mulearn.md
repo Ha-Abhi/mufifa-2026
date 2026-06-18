@@ -1,5 +1,5 @@
 # Abhishek S( Chemical Engineering Student, Photography & Visual Storytelling Enthusiast)
-### Squad Domain: Maker | FIFA Nation: Portugal 
+### Squad Domain: Designer | FIFA Nation: Portugal 
 
 ### About Me
 
