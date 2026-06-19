@@ -45,8 +45,11 @@ I am a Chemical Engineering student at Government Engineering College (GEC) Kozh
 #### μFIFA World Cup 2026 - Tournament Goals:
 
 -Contribute quality edits and creative content.
+
 -Connect and collaborate with fellow community members.
+
 -Learn new skills in storytelling and media creation.
+
 -Leave a meaningful contribution to the μFIFA community.
 
 ---
