@@ -33,7 +33,7 @@ I am a Chemical Engineering student at Government Engineering College (GEC) Kozh
 
 #### Past World Cup Memories:
 
-- **Argentina 4-2 France** (penalty) 2022,my favorite World Cup memory is watching the 2022 Argentina vs France final at a public screening. After Mbappé’s incredible comeback, many France fans around me thought Argentina would lose. The dramatic turnaround and Argentina’s eventual victory made it an unforgettable experience.
+- **Argentina 4-2 France** (penalty) 2022,my favorite World Cup memory is watching the 2022 Argentina vs France final at a public screening. After Mbappé’s incredible comeback, many France fans around me thought Argentina would lose. The dramatic turnaround and Argentina’s eventual victory made it an unforgettable memories.
 
 #### 2026 Predictions:
 
@@ -44,8 +44,10 @@ I am a Chemical Engineering student at Government Engineering College (GEC) Kozh
 
 #### μFIFA World Cup 2026 - Tournament Goals:
 
-- What do you want to achieve in μFIFA by the time the final whistle blows?
-- What will you have built, learned, or contributed that you didn't have before?
+-Contribute quality edits and creative content.
+-Connect and collaborate with fellow community members.
+-Learn new skills in storytelling and media creation.
+-Leave a meaningful contribution to the μFIFA community.
 
 ---
 
