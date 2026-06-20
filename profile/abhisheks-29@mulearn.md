@@ -58,8 +58,8 @@ I am a Chemical Engineering student at Government Engineering College (GEC) Kozh
 
 #### History of Open Source and Collaborative Contributions:
 
-- Share open-source projects you've contributed to: your own repos, contributions to popular projects, or collaborative proof-of-work on μLearn initiatives.
-- *If you're just starting:* mention a project you're planning to open-source, or a repo you've been studying and want to contribute to.
+- Planning to contribute to an open-source **DWSIM project** and learn process simulation through hands-on development.
+  
 
 #### History of Community Engagement:
 
