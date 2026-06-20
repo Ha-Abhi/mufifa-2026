@@ -66,8 +66,11 @@ I am a Chemical Engineering student at Government Engineering College (GEC) Kozh
 - Recently joined the **μLearn community (GECK)**.
   
 - Attended talk sessions and workshops on:
+  
 **EV exploration (IEDC RIT)**
+
 **Photoshop (IEDC RIT)**
+
 **Cybersecurity (TECHMAGI X ELAN & NVISION)**
   
 - Recently joined **μFIFA Community**.
