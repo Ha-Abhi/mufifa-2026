@@ -105,6 +105,7 @@ I am a Chemical Engineering student at Government Engineering College (GEC) Kozh
 Led an entrepreneurship project team, coordinated tasks, and guided the project from idea to presentation. Developed leadership, teamwork, and problem-solving skills.
 - [Our Work: Green Plate Solutions](https://drive.google.com/drive/folders/1ndvPgIapLpTGqX2Mn1zC7QEyPVvNpnXe)
 
+
 #### Networking:
 
 - How do you connect with people across disciplines and institutions? Describe collaborations, partnerships, or cross-functional teams you've been part of.
