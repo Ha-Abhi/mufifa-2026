@@ -95,8 +95,9 @@ I am a Chemical Engineering student at Government Engineering College (GEC) Kozh
 
 #### Education and Proof of Work:
 
-- Mention your current degree, institution, and any relevant certifications or courses completed.
-- Add links to your GitHub and LinkedIn profiles.
+- "Currently pursuing a **B.Tech in Chemical Engineering at Government Engineering College Kozhikode**. Passionate about applying engineering principles to solve real-world industrial and environmental challenges."
+- [GitHub:Ha-Abhi ](https://github.com/Ha-Abhi)
+- [LinkedIn- Abhishek.S](https://www.linkedin.com/in/abhishek-s-379773390?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 #### History of Leadership:
 
