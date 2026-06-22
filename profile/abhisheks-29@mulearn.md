@@ -91,9 +91,7 @@ I am a Chemical Engineering student at Government Engineering College (GEC) Kozh
 
 #### Public Portfolio & Recognition:
 
-- Share anything that shows your work in public: a live project, a published piece, an award, a feature, a community shoutout, or any recognition you've earned.
-- This can be a deployed app, a design campaign, a video series, an event you organised, a competition result, or anything others can see and verify.
-- *If you're just starting:* describe an idea you want to build and ship during μFIFA. What will your public proof of work look like by the end of the tournament?
+- I am a Chemical Engineering student who has worked on a project related to Entrepreneurship and Intellectual Property Rights (IPR). I would like to use μFIFA as a platform to learn, collaborate, and develop practical skills while building meaningful projects.
 
 #### Education and Proof of Work:
 
