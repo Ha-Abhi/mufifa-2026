@@ -78,7 +78,8 @@ I am a Chemical Engineering student at Government Engineering College (GEC) Kozh
 #### Domain Profiles:
 
   - **Designer**:
-    [Behance: 
+  -  [Behance: Abhishek.S](https://www.behance.net/abhisheks135)
+  -  [Figma: ABHISHEK S](
     
 
 #### Tools, Workflows & Automations:
