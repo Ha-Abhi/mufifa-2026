@@ -108,14 +108,11 @@ Led an entrepreneurship project team, coordinated tasks, and guided the project 
 
 #### Networking:
 
-- How do you connect with people across disciplines and institutions? Describe collaborations, partnerships, or cross-functional teams you've been part of.
-- *If you're just starting:* who do you want to connect with during μFIFA, and what kind of collaborations are you hoping to find?
+- I’d like to connect with people who share my interests in poster designing and editing. I hope to collaborate on creative projects, exchange ideas, and learn from their experiences and skills.
 
 #### Career Plan:
 
-- **Immediate:** What are you working on or planning to do in the next 6-12 months?
-- **Long-term:** Where do you want to take your skills, and how does μFIFA help you get there?
-
+- 
 ---
 
 #### Profile Card:
