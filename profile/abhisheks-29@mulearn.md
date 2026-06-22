@@ -112,7 +112,9 @@ Led an entrepreneurship project team, coordinated tasks, and guided the project 
 
 #### Career Plan:
 
-- 
+- **Immediate**: Improve my skills in poster designing, editing, entrepreneurship, and technology through projects and learning.
+- **Long-term**: Gain experience and knowledge in technology and innovation that I can apply to support and contribute to the field of chemical engineering.
+  
 ---
 
 #### Profile Card:
@@ -120,6 +122,6 @@ Led an entrepreneurship project team, coordinated tasks, and guided the project 
 <!-- Paste your μLearn embed link below; get it from Discord using /get-embed-link -->
 
 <img
-    src="https://mulearn.org/embed/rank/yourname@mulearn"
+    src=
     width="400px">
 </img>
